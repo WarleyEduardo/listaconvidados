@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+	border:0;
+	
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+   align-items: center;
+}
+
+.listaconvidados{		 
+   background-color: rgb(235, 132, 35);
+   width: 400px;
+   height: 80px;
+   text-align: center;	
+	
+}
+
+.listaconvidados li{
+
+	list-style-type: none;
+}
